@@ -1,0 +1,77 @@
+Bundle::SDK::COG version 0.01
+=============================
+
+=head1 NAME
+
+Bundle::SDK::COG - CPAN Bundle for modules COG uses
+
+=head1 SYNOPSIS
+
+cpan Bundle::SDK::COG
+
+=head1 CONTENTS
+
+Bundle::CPAN
+
+Bundle::Test
+
+Test::Warn
+
+Test::Memory::Cycle
+
+Test::Pod
+
+Test::Pod::Coverage
+
+Bundle::COG
+
+Bundle::AMBS
+
+Date::DayOfWeek
+
+ExtUtils::ModuleMaker
+
+JSAN
+
+Module::Starter
+
+Time::HiRes
+
+WWW::Mechanize
+
+CPAN::Mini
+
+Perl::Tidy
+
+Spork
+
+Astro::MoonPhase
+
+=head1 AUTHOR
+
+Jose Castro, C<< <cog@cpan.org> >>
+
+=head1 BUGS
+
+Please report any bugs or feature requests to
+C<bug-bundle-sdk-cog@rt.cpan.org>, or through the web interface at
+L<http://rt.cpan.org/NoAuth/ReportBug.html?Queue=Bundle-SDK-COG>.
+I will be notified, and then you'll automatically be notified of
+progress on your bug as I make changes.
+
+=head1 ACKNOWLEDGEMENTS
+
+I got the idea for this very useful (at least to me) Bundle out of
+Simon's Bundle::SDK::SIMON.
+
+I got the nerve to do it after reading this:
+http://use.perl.org/~Ovid/journal/26818. Afterall, "What is the CPAN
+for?"
+
+=head1 COPYRIGHT & LICENSE
+
+Copyright 2005 Jose Castro, all rights reserved.
+
+This program is free software; you can redistribute it and/or modify it
+under the same terms as Perl itself.
+
