@@ -9,7 +9,7 @@ Bundle::SDK::COG - CPAN Bundle for modules COG uses
 
 =cut
 
-our $VERSION = '0.01';
+our $VERSION = '0.02';
 
 =head1 SYNOPSIS
 
@@ -30,8 +30,6 @@ Test::Pod
 Test::Pod::Coverage
 
 Bundle::COG
-
-Bundle::AMBS
 
 Astro::MoonPhase
 
