@@ -9,7 +9,7 @@ Bundle::SDK::COG - CPAN Bundle for modules COG uses
 
 =cut
 
-our $VERSION = '0.02';
+our $VERSION = '0.03';
 
 =head1 SYNOPSIS
 
@@ -21,12 +21,6 @@ Bundle::CPAN
 
 Bundle::Test
 
-Test::Warn
-
-Test::Memory::Cycle
-
-Test::Pod
-
 Test::Pod::Coverage
 
 Bundle::COG
@@ -36,8 +30,6 @@ Astro::MoonPhase
 CPAN::Mini
 
 Date::DayOfWeek
-
-JSAN
 
 Module::Starter
 
@@ -49,17 +41,11 @@ Time::HiRes
 
 WWW::Mechanize
 
+Devel::Cover
+
 =head1 AUTHOR
 
 Jose Castro, C<< <cog@cpan.org> >>
-
-=head1 BUGS
-
-Please report any bugs or feature requests to
-C<bug-bundle-sdk-cog@rt.cpan.org>, or through the web interface at
-L<http://rt.cpan.org/NoAuth/ReportBug.html?Queue=Bundle-SDK-COG>.
-I will be notified, and then you'll automatically be notified of
-progress on your bug as I make changes.
 
 =head1 ACKNOWLEDGEMENTS
 
