@@ -9,7 +9,7 @@ Bundle::SDK::COG - CPAN Bundle for modules COG uses
 
 =cut
 
-our $VERSION = '0.03';
+our $VERSION = '0.04';
 
 =head1 SYNOPSIS
 
@@ -42,6 +42,66 @@ Time::HiRes
 WWW::Mechanize
 
 Devel::Cover
+
+App::Ack
+
+Catalyst::Devel
+
+Catalyst::Runtime
+
+DBD::mysql
+
+DBI
+
+Data::Dump
+
+DateTime
+
+File::Compare
+
+File::RandomLine
+
+Getopt::Euclid
+
+Getopt::Std
+
+HTML::TagCloud
+
+IO::Socket
+
+JSON
+
+List::Util
+
+List::MoreUtils
+
+Log::Log4perl
+
+Net::Twitter
+
+Perl::Critic
+
+Perl6::Say
+
+Perl6::Slurp
+
+Pod::Coverage
+
+Pod::Webserver
+
+Regexp::Common
+
+Smart::Comments
+
+Spreadsheet::ParseExcel
+
+Test::Perl::Critic
+
+Test::Pod
+
+XML::Simple
+
+YAML
 
 =head1 AUTHOR
 
